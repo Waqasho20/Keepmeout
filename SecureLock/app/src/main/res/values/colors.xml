@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Modern Dark Theme Colors -->
+    <color name="space_background">#0F0F0F</color>
+    <color name="card_background">#1A1A1A</color>
+    <color name="surface_color">#242424</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#666666</color>
+    
+    <!-- Accent Colors -->
+    <color name="primary_accent">#6C63FF</color>
+    <color name="secondary_accent">#FF6B6B</color>
+    <color name="success_color">#4ECDC4</color>
+    <color name="warning_color">#FFE66D</color>
+    
+    <!-- Button Colors -->
+    <color name="button_primary">#6C63FF</color>
+    <color name="button_secondary">#2C2C2C</color>
+    <color name="button_selected">#6C63FF</color>
+    <color name="button_unselected">#1F1F1F</color>
+    
+    <!-- Legacy colors for compatibility -->
+    <color name="light_gray">#B0B0B0</color>
+    <color name="divider">#333333</color>
+    <color name="blue_accent">#6C63FF</color>
+    <color name="dark_button">#242424</color>
+    <color name="save_button">#6C63FF</color>
+</resources> 
